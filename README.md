@@ -1,2 +1,2 @@
-# Machine-Learning-Alogorithm-Practice-
-This file is contain all machine learning algorithm including supervised and unsupervised algorithm.
+# Machine-Learning-Alogorithms-Practice-
+This file is contain all Machine LearningAlgorithm including Supervised and Unsupervised Algorithm.
